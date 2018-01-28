@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git change again.  
 Creating a new branch is quick and simple. 
 Git create a new branch name dev.
+git deal issue 001 debug.
